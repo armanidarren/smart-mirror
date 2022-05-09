@@ -1,3 +1,7 @@
+# personal additions
+src/env-variables.json
+old-package-contents.json
+
 # Logs
 logs
 *.log
